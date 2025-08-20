@@ -1,2 +1,2 @@
-# Greasy-Fork-
+# Greasy-Fork
 some useful tools
